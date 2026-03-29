@@ -20,3 +20,9 @@ A professional-grade mathematical solver and tutor web application. This project
    ```bash
    git clone [https://github.com/ShubhamN-31/Math-AI-App.git](https://github.com/ShubhamN-31/Math-AI-App.git)
    cd Math-AI-App
+## 📸 Preview
+
+### AI Chat Interface
+![Math AI Chat Interface](chat.png)
+
+![Function Grapher](chat2.png)
